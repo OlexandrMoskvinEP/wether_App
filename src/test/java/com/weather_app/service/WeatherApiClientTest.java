@@ -1,7 +1,7 @@
-package com.wether_app.service;
+package com.weather_app.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.wether_app.config.WeatherApiProperties;
+import com.weather_app.config.WeatherApiProperties;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.http.MediaType;

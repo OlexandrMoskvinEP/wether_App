@@ -1,4 +1,4 @@
-package com.wether_app.model.dto;
+package com.weather_app.model.dto;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;

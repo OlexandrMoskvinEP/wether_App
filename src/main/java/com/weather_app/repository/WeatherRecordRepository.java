@@ -1,6 +1,6 @@
-package com.wether_app.repository;
+package com.weather_app.repository;
 
-import com.wether_app.model.WeatherRecord;
+import com.weather_app.model.WeatherRecord;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

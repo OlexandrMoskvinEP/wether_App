@@ -1,4 +1,4 @@
-package com.wether_app.config;
+package com.weather_app.config;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;

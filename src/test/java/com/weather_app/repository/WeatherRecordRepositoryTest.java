@@ -1,6 +1,6 @@
-package com.wether_app.repository;
+package com.weather_app.repository;
 
-import com.wether_app.model.WeatherRecord;
+import com.weather_app.model.WeatherRecord;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;

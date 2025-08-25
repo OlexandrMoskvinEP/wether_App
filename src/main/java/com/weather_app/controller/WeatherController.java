@@ -1,7 +1,7 @@
-package com.wether_app.controller;
+package com.weather_app.controller;
 
-import com.wether_app.model.WeatherRecord;
-import com.wether_app.service.WeatherService;
+import com.weather_app.model.WeatherRecord;
+import com.weather_app.service.WeatherService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

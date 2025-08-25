@@ -1,8 +1,8 @@
-package com.wether_app.controller;
+package com.weather_app.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.wether_app.model.WeatherRecord;
-import com.wether_app.service.WeatherService;
+import com.weather_app.model.WeatherRecord;
+import com.weather_app.service.WeatherService;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 import org.springframework.beans.factory.annotation.Autowired;

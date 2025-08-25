@@ -1,9 +1,9 @@
-package com.wether_app.service;
+package com.weather_app.service;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.wether_app.config.WeatherApiProperties;
-import com.wether_app.model.dto.WeatherApiResponse;
+import com.weather_app.config.WeatherApiProperties;
+import com.weather_app.model.dto.WeatherApiResponse;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.HttpClientErrorException;

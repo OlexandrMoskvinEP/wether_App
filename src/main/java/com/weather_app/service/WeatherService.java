@@ -1,8 +1,8 @@
-package com.wether_app.service;
+package com.weather_app.service;
 
-import com.wether_app.model.WeatherRecord;
-import com.wether_app.model.dto.WeatherApiResponse;
-import com.wether_app.repository.WeatherRecordRepository;
+import com.weather_app.model.WeatherRecord;
+import com.weather_app.model.dto.WeatherApiResponse;
+import com.weather_app.repository.WeatherRecordRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
